@@ -1,0 +1,4 @@
+-e .
+
+# Instant setuptools
+setuptools==65.6.3
