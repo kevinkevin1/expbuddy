@@ -1,0 +1,13 @@
+-r requirements.txt
+
+# development dependencies
+pytest==6.2.3
+pytest-black==0.3.11
+pytest-cov==2.10.1
+pytest-flake8==1.0.6
+pytest-mypy==0.7.0
+pytest-pylint==0.17.0
+pytest-testmon==1.0.3
+pytest-watch==4.2.0
+ipykernel==5.5.3
+jupyter==1.0.0
